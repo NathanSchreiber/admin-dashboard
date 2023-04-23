@@ -1,1 +1,1 @@
-# admin-dashboard
+This is a mock admin dashboard.
